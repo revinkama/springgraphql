@@ -10,7 +10,7 @@ In order to test route to ```http://localhost:8080/graphiql?path=/graphql```
 Two queries were created: allBooks and findOne
 Test input: 
   
-  query {
+  ```query {
   allBooks {
     id
     pages
@@ -19,12 +19,12 @@ Test input:
       lastName
       }
     }
-  }
+  }```
 
 
-  query {
+  ```query {
   findOne(id: 2) {
     title
     pages
     }
-  }
+  }```
