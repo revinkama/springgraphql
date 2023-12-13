@@ -19,7 +19,7 @@ Test input:
       lastName
       }
     }
-  }```
+  }
 
 
   ```query {
@@ -27,4 +27,4 @@ Test input:
     title
     pages
     }
-  }```
+  }
