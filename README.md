@@ -4,7 +4,6 @@ GraphQL API's were created to run queries, instead of usual REST API's
 
 ## Running
 Just run the ```GraphQlSpringApplication```
-Made use of the 
 
 ## Testing
 In order to test route to ```http://localhost:8080/graphiql?path=/graphql```
