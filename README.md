@@ -22,7 +22,7 @@ Test input:
   }
 
 
-  ```query {
+  query {
   findOne(id: 2) {
     title
     pages
